@@ -1,0 +1,13 @@
+.tweetList{
+    width: 90%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    padding:15px;
+    
+}
+
+h1, h2{
+    text-align: center;
+}
